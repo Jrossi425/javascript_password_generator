@@ -12,7 +12,7 @@ N/A
 
 To provide users with a random password generator. It can be used to create a passwords with a range of length and different criteria.
 
-Link to the live site: https://jrossi425.github.io/Portfolio-Web-App/
+Link to the live site: https://jrossi425.github.io/javascript_password_generator/
 
 ![image](https://user-images.githubusercontent.com/123151991/221697115-c024181a-c56d-4286-bafc-e8b8560545c1.png)
 ![image](https://user-images.githubusercontent.com/123151991/221697177-7e747b33-f8e3-408c-8158-97e3fa7a7513.png)
