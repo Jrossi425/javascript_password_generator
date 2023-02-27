@@ -1,100 +1,24 @@
-# 03 JavaScript: Password Generator
+# Javascript-Password-Generator
 
-## Your Task
+## Description
 
-This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+Week 3 challenge: To create a working password generator using Javascript. The password generator must begin with the generate password button. The user will then be asked how long the password will be. They will be alerted that the password must be between 8 and 128 characters if they choose something outside of that. They are then asked a series of promts for password criteria. The password will be created based on the length and criteria they chose. They can confirm for lowercase, uppercase, numberic, and/or special charaters. The generated password is then written to the page.
 
-The password can include special characters. If you’re unfamiliar with these, see this [list of password special characters](https://www.owasp.org/index.php/Password_special_characters) from the OWASP Foundation.
+## Installation
 
-## User Story
+N/A
 
-```
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
-```
+## Usage
 
-## Acceptance Criteria
+To provide users with a random password generator. It can be used to create a passwords with a range of length and different criteria.
 
-```
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
-```
+Link to the live site: https://jrossi425.github.io/Portfolio-Web-App/
 
-## Mock-Up
+![image](https://user-images.githubusercontent.com/123151991/219153842-1e8e0350-929d-4a42-a994-66998b7ce1a3.png)
+![image](https://user-images.githubusercontent.com/123151991/219155676-bb30837a-75e5-4933-901b-a524b511611e.png)
 
-The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+## Credits
 
-## Grading Requirements
+N/A
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
