@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To provide users with a random password generator. It can be used to create a passwords with a range of length and different criteria.
+To provide users with a random password generator. It can be used to create a random password with specified length and criteria.
 
 Link to the live site: https://jrossi425.github.io/javascript_password_generator/
 
