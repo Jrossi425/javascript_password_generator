@@ -14,7 +14,7 @@ To provide users with a random password generator. It can be used to create a pa
 
 Link to the live site: https://jrossi425.github.io/Portfolio-Web-App/
 
-https://github.com/Jrossi425/javascript_password_generator/blob/master/Assets/pswrd1.PNG
+![image](https://user-images.githubusercontent.com/123151991/221697115-c024181a-c56d-4286-bafc-e8b8560545c1.png)
 
 ## Credits
 
